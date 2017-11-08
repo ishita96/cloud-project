@@ -1,13 +1,12 @@
 //package.json
 {
-&quot;name&quot;: &quot;cloud-course&quot;,
-&quot;version&quot;: &quot;0.0.0&quot;,
-&quot;private&quot;: true,
-&quot;scripts&quot;: {
-
-&quot;start&quot;: &quot;node ./index.js&quot;
-
-},
-&quot;dependencies&quot;: {
+  		"name": "cloud-project",
+  		"version": "0.0.0",
+  		"private": true,
+  	"scripts": {
+		"start": "node ./index.js"
+  	},
+  		"dependencies": {
+  		}
 }
-}
+
